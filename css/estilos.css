@@ -1,0 +1,29 @@
+ul{
+    list-style-type: none;
+    line-height: 20px;
+    padding: 0;
+    overflow: auto;
+
+}
+
+li{
+    list-style: none;
+    
+}
+li a:hover{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+}
+li a{
+    display: inline-block;
+    color: white;
+    width: 100%;
+    line-height: 20px;
+    margin-top: 2px;
+    padding: 8px 16px;
+    list-style: none;
+    text-decoration: none;
+}
+
+
